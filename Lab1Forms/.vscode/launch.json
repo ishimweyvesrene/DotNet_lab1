@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run Lab1Forms",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/Lab1Forms/bin/Debug/net8.0-windows/Lab1Forms.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/Lab1Forms",
+            "stopAtEntry": false,
+            "console": "internalConsole"
+        }
+    ]
+}
